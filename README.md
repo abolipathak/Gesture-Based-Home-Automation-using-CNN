@@ -49,6 +49,10 @@ from sklearn.metrics import confusion_matrix
 
 ## Architecture Diagram
 
+<p align="center">
+  <img width="500" height="300" src="Images/architecture.png">
+</p>
+
 
 ## Hardware Requirements
 
