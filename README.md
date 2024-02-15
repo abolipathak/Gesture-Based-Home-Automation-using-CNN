@@ -70,20 +70,20 @@ from sklearn.metrics import confusion_matrix
 ## Project Modules 
 
 <p align="center">
-  <img width="700" height="500" src="Images/project modules.png">
+  <img width="500" height="300" src="Images/project modules.png">
 </p>
 
 
 ## Project Data Flow
 
 <p align="center">
-  <img width="700" height="500" src="Images/Project data flow.png">
+  <img width="500" height="300" src="Images/Project data flow.png">
 </p>
 
 ## Risk Assessment
 
 <p align="center">
-  <img width="700" height="500" src="Images/Risk Assessment.png">
+  <img width="500" height="300" src="Images/Risk Assessment.png">
 </p>
 
 
