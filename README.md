@@ -86,6 +86,7 @@ from sklearn.metrics import confusion_matrix
   <img width="500" height="300" src="Images/Risk Assessment.png">
 </p>
 
-## Published paper link :
+## Published paper links :
 
-https://ieeexplore.ieee.org/document/9121058
+- https://ieeexplore.ieee.org/document/9121058
+- https://www.irjet.net/archives/V7/i3/IRJET-V7I31085.pdf
